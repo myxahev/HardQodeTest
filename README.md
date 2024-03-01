@@ -1,4 +1,4 @@
-#HardQodeTest
+# HardQodeTest
 
 This project is a solution to the test task "Building a system for training." It was created to test knowledge of building relationships in the database and the ability to correctly build queries without N+1 errors.
 
